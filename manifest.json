@@ -1,0 +1,15 @@
+{
+    "short_name": "ForYouR",
+    "name": "For Your React App",
+    "icons": [
+      {
+        "src": "icon-site.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "https://isabelaqu.github.io/ForYouR/",
+    "background_color": "#000532",
+    "display": "standalone",
+    "theme_color": "#000000"
+  }
